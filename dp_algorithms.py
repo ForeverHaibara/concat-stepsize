@@ -48,7 +48,7 @@ def DomDP(N):
 
 def verify_bound(h, bound = 'f', L = 1, verbose = True, **kwargs):
     """
-    Numerically verify a primitve/dominant stepsize h satisfies
+    Numerically verify a primitive/dominant stepsize h satisfies
     
         f_n - f_* <= 1/(2(1^Th) + 1) * L/2 * ||x_0 - x_*||^2.
 
