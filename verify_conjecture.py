@@ -1,5 +1,5 @@
 """
-Verification of Conjecture 4.17 for n <= 10^4
+Verification of Conjecture in Subsection: Nonuniqueness for n <= 10^4
 """
 from math import sqrt
 
